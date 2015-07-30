@@ -1,0 +1,5 @@
+site_name: talPor Design Handbook
+theme: mkdocs
+repo_url: https://github.com/talpor/talpor-design-handbook/
+site_favicon: images/favicon.ico
+copyright: talPor Solutions 2015
