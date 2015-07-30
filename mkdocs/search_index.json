@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "The talPor Handbooks\n\n\nOur handbook is split into three volumes, one for each different aspect of what makes up talPor.\n\n\n\n\nThe talPor Culture Handbook\n\n\nThe talPor Development Handbook\n\n\nThe talPor Design Handbook", 
+            "text": "The talPor Design Handbook\n\n\nThis is the home of the future talPor Design Handbook. Check out our other handbooks:\n\n\n\n\nThe talPor Culture Handbook\n\n\nThe talPor Development Handbook", 
             "title": "Home"
         }, 
         {
-            "location": "/#the-talpor-handbooks", 
-            "text": "Our handbook is split into three volumes, one for each different aspect of what makes up talPor.   The talPor Culture Handbook  The talPor Development Handbook  The talPor Design Handbook", 
-            "title": "The talPor Handbooks"
+            "location": "/#the-talpor-design-handbook", 
+            "text": "This is the home of the future talPor Design Handbook. Check out our other handbooks:   The talPor Culture Handbook  The talPor Development Handbook", 
+            "title": "The talPor Design Handbook"
         }
     ]
 }
